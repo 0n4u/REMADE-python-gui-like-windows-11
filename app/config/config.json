@@ -1,0 +1,27 @@
+{
+    "Material": {
+        "AcrylicBlurRadius": 14
+    },
+    "Update": {
+        "CheckUpdateAtStartUp": false
+    },
+    "Folders": {
+        "Download": "C:/Users/Ginot/Downloads",
+        "LocalMusic": [
+            "C:/Users/Ginot"
+        ]
+    },
+    "MainWindow": {
+        "DpiScale": 1,
+        "Language": "en_US"
+    },
+    "QFluentWidgets": {
+        "FontFamilies": [
+            "Segoe UI",
+            "Microsoft YaHei",
+            "PingFang SC"
+        ],
+        "ThemeColor": "#ff009faa",
+        "ThemeMode": "Dark"
+    }
+}
